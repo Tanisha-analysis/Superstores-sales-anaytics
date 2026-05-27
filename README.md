@@ -11,4 +11,4 @@ Excel Pivot Tables, Conditional Formatting
 4. Finding: High sales ≠ high profit. Discount impact to be checked next
 
 ## Day 4 Screenshot
- ![Profit Analysis](Day_4_011550.png)
+ ![Profit Analysis](Day 4_011550.png)
